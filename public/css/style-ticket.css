@@ -1,0 +1,145 @@
+.cut-line {
+    position: relative;
+    border-bottom-width: 1px;
+    border-top: 0;
+    border-radius: 0;
+    border-left: 0;
+    border-style: dashed;
+    height: 1px;
+    color: #bbb;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.cut-line i {
+    position: absolute;
+    top: -6px;
+    background: #fff;
+    width: 16px;
+}
+.QR-scanner {
+    background: #fff;
+    display: inline-block;
+    padding: 5px;
+    border: 1px solid #efefef;
+    border-radius: 3px;
+}
+
+.QR-scanner img {
+    width: 75px;
+}
+.QR-counter-type li {
+    margin-bottom: 3px;
+    color: #000;
+}
+
+.QR-counter-type li:first-child {
+    margin-bottom: 17px;
+    font-weight: 500;
+	font-size: 16px;
+}
+
+.QR-counter-type li:last-child {
+    margin-bottom: 20px;
+    font-weight: 500;
+	font-size: 16px;
+}
+.QR-dt p {
+    margin-bottom: 0;
+    font-size: 12px;
+    margin-top: 5px;
+}
+.booking-total-grand {
+	margin-bottom: 0;
+	font-size: 14px;
+	color: #000;
+	margin-top: 13px;
+}
+
+.booking-total-grand span{
+	margin-bottom: 0;
+	font-size: 14px;
+	color: #000;
+	display: inline-block;
+	margin-left: 2px;
+}
+.rotate-icon {
+	transform: rotate(300deg);
+}
+.booking-total-tickets span {
+	margin-bottom: 0;
+	font-size: 14px;
+	color: #000;
+	display: inline-block;
+	margin-top: 13px;
+}
+.buyer-name {
+    font-size: 14px;
+    font-weight: 500;
+    color: #000;
+    font-family: inherit;
+}
+.event-order-dt-content {
+    margin-left: 20px;
+}
+
+.event-order-dt-content h5 {
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    margin-bottom: 10px;
+	color: #000;
+}
+
+.event-order-dt-content span {
+    font-size: 14px;
+    font-weight: 400;
+    color: #717171;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.event-order-dt-content .category-type {
+    font-size: 14px;
+    font-weight: 500;
+    color: #000;
+    font-family: inherit;
+}
+.event-order-dt {
+    display: flex;
+    width: 100%;
+    align-items: flex-start;
+}
+.event-order-dt-content {
+    margin-left: 20px;
+}
+
+.event-order-dt-content h5 {
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    margin-bottom: 10px;
+	color: #000;
+}
+
+.event-order-dt-content span {
+    font-size: 14px;
+    font-weight: 400;
+    color: #717171;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.event-order-dt-content .category-type {
+    font-size: 14px;
+    font-weight: 500;
+    color: #000;
+    font-family: inherit;
+}
+.main-card {
+	position: relative;
+    border: 1px solid #efefef;
+    background-color: #ffffff;
+    width: 100%;
+    border-radius: 5px;
+}
